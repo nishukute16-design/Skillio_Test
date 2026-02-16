@@ -12,6 +12,7 @@ for example <br> used to add next line
 ----------------------------------------------------
 for configuration use <br> for username: git config --global user.name "Nishi Kute" <br>
 for email: git config --global user.email "use mail id from which we have signed on github.com"
+<<<<<<< HEAD
 cd - use to change directory
 
 write cd and name of the folder in which we want to enter (write first letter and use ctrl+tab)
@@ -19,3 +20,7 @@ write cd and name of the folder in which we want to enter (write first letter an
 git status
 
 use to show the current status of our project.
+=======
+------------------------------------------------------------------------------------
+git basic commands <br> clone/status: clone-cloning a repository on our local machine. git clone <http link from github.com> <br>in short we use this to get repostory from gihub.com to our laptop
+>>>>>>> fb1e161d470c965ed85bf0770a0553333cb22784
