@@ -11,4 +11,4 @@ readme uses syntax like html <br>
 for example <br> used to add next line
 ----------------------------------------------------
 for configuration use <br> for username: git config --global user.name "Nishi Kute" <br>
-for email git config --global user.email "mailid"
+for email: git config --global user.email "use mail id from which we have signed on github.com"
