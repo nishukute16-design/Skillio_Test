@@ -12,3 +12,5 @@ for example <br> used to add next line
 ----------------------------------------------------
 for configuration use <br> for username: git config --global user.name "Nishi Kute" <br>
 for email: git config --global user.email "use mail id from which we have signed on github.com"
+------------------------------------------------------------------------------------
+git basic commands <br> clone/status: clone-cloning a repository on our local machine. git clone <http link from github.com> <br>in short we use this to get repostory from gihub.com to our laptop
