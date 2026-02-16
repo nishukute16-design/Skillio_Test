@@ -7,3 +7,5 @@ commit-change is final
 add -add new changes
 readme also consider good if we select readme it give the details about project
 ------------------------------------------------------------------
+readme uses syntax like html <br>
+for example <br> used to add next line
