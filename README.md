@@ -9,3 +9,6 @@ readme also consider good if we select readme it give the details about project
 ------------------------------------------------------------------
 readme uses syntax like html <br>
 for example <br> used to add next line
+----------------------------------------------------
+for configuration use <br> for username: git config --global user.name "Nishi Kute" <br>
+for email git config --global user.email "mailid"
